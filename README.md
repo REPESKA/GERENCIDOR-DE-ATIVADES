@@ -25,7 +25,7 @@ Bibliotecas
 ## Versões:
 
 > Python 3.10
-> 
+> Google Antigravity
 
 ## Autores:
 
