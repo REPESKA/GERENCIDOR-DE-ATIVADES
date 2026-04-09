@@ -8,7 +8,7 @@ Um parágrafo da descrição do projeto vai aqui
 # 🔌Como fazer funcionar na sua máquina:
 
 - Instale Python na sua máquina;
-- Instale a biblioteca tal….
+- Instale a biblioteca, copie o codigo
 
 # 📋Pré-requisitos do sistema:
 
