@@ -12,7 +12,7 @@ Um parágrafo da descrição do projeto vai aqui
 
 # 📋Pré-requisitos do sistema:
 
-> Exemplo
+> Windows 32/64 bits
 > 
 
 ## 🛠️Tecnologias utilizadas:
