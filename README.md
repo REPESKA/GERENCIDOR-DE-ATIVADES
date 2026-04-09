@@ -1,7 +1,7 @@
 # GERENCIADOR DE ATIVADES
 
 SISTEMA DE GERENCIAMENTO DE ATIVIDADE
-# Título do repositório🚀
+# SOLUTIONS PRO 10X🚀
 
 Um parágrafo da descrição do projeto vai aqui
 
