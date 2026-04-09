@@ -26,7 +26,7 @@ Bibliotecas
 
 > Python 3.10
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/3500e63b-f6c9-4865-8340-8aa18ce17b4d" />
-
+> Google Antigravity
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/e2d8946a-d455-4061-9736-349c432688ff" />
 
 > Google Antigravity
