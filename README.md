@@ -31,4 +31,6 @@ Bibliotecas
 ## Autores:
 
 > Exemplo
->
+> 
+><img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/527a963e-00ab-4313-a064-c4d977920120" />
+
